@@ -1,54 +1,58 @@
 <h1 align = "center">
-  AI-ML Project Template <br>
-  <a href="https://github.com/ZenithClown/ai-ml-project-template/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/ZenithClown/ai-ml-project-template?logo=git&style=plastic"></a>
-  <a href="https://github.com/ZenithClown/ai-ml-project-template/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/ZenithClown/ai-ml-project-template?style=plastic&logo=github"></a>
-  <a href="https://github.com/ZenithClown/ai-ml-project-template/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/ZenithClown/ai-ml-project-template?style=plastic&logo=github"></a>
-  <a href="https://makeapullrequest.com/"><img alt="PRs Welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=plastic&logo=open-source-initiative"></a>
+  Customer Profile <br>
 </h1>
 
 <div align = "justify">
 
-**Objective:** A *simple* and *well-desgined* template structure to start a machine learning/deep learning based projects. The template provides a basic directory structure with additional files (like [`notebooks/BOILERPLATE.ipynb`](./notebooks/BOILERPLATE.ipynb) to perform EDA. In addition, the template is desgined such that code can be deployed into production. *Quickly get started* working on the code, and prepare documentation as highlighted below. To understand more about the template check [**HOWTO.md**](./HOWTO.md) file.
+# Abstract
 
----
+The retail internet sector has experienced major transformations as it navigates the changing terrain of marketing tactics. The industry has seen a shift over the past few decades from product-focused Marketing 1.0 to customer-focused Marketing 5.0, which now strongly emphasizes providing outstanding customer experiences.
 
-</div>
+This report shows the company's targeting and retention efforts of consumer data presented in this report. Data on consumer demographics, purchase patterns, and campaign engagement are all included in the dataset
 
-<p align = "justify">AI-ML :brain: is an extremely fast growing environment where millions of new commits :eye: and thousands of users :man: :woman: are actively engaging on a daily basis :calendar:. To start a new project :package:, one should generally setup a basic project structure with some default branches and files. <a href = "https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-template-repository">GitHub Templates</a> solves this by setting up a template from an existing repositories. The template :receipt: provides minimalistic approach to quickly start a machine learning/artificial intelligence project. :gear:</p>
 
-<p align = "justify">For more information :bulb: on how to use this template and getting started, check <a href = "HOWTO.md">HOWTO</a>. Feel free to use the template as it suits you! :rocket:
-Would be great, if you :link: put a link to my template, if you use this repository!
+# Overview
 
-## :writing_hand: Project Name
+Numerous important insights are revealed by the investigation, which can aid the business in maximizing its efforts to attract and retain customers. The business can promote long-term growth and optimize return on investment by matching its marketing and product development tactics with the traits and actions of its target market.
 
-<p align = "justify">:writing_hand: Please add/modify the project details on your first project start, as <a href = "https://www.atlassian.com/work-management/knowledge-sharing/documentation/importance-of-documentation">documentation is important</a> and let end user have proper knowledge! :dart: Start by editing all the sections/paragraphs marked with ":writing_hand:".</p>
 
-> Client Name: :writing_hand: `client name` (`client details/informations`) :office:
+This analysis's main objectives are:
 
-### Explorative Results
+-Determine which new customer segments the business should focus on selling its expensive products to.
 
-<p align = "justify">:writing_hand: The template can also be used in creating research papers :book:, white paper :memo:, summary report :scroll:, production level codes :trophy:, etc. Necessary explorative results :tada: can be documented in this section.</p>
+-Ascertain which clients the business can depend on to provide continuous revenue.
 
-> Report Link: :writing_hand: `report link` :closed_book:
+-Determine which current clients are not likely to gain much from targeted efforts so that the business can concentrate its resources on other promising markets.
 
-### Modelling Results
+-Identify new clients who need to have their long-term potential carefully assessed to avoid them becoming unproductive or having low-value.
 
-<p align = "justify">:writing_hand: Information about the used models/engines/agents and their performance can be documented here :sparkles:. An AI/ML trained model can be stored in their respective directories.</p>
+-Divide the consumer base into discrete groups according to how they spend their money and learn about the traits of the most ardent consumers of particular product categories, like meat.
 
-> Report Link: :writing_hand: `report link` :ledger:
+By focusing on these objectives, the business may create more successful client acquisition and retention plans, resulting in long-term profitability and growth.
 
-### Configurations
 
-<p align = "justify">:writing_hand: A <a href = "config"><code>config</code></a> directory is available to store and configure project with variables, values and/or other informations related to project template.</p>
+## Installation
 
-### Project Deployment and Planning
+Use the requirement packages from the listed on section 2.2 Libraries Used
+ 
+## Usage
 
-<p align = "justify">:bookmark: Relevant information related to project deployment, planning, production ready code. For more information :interrobang: on individual version check <a href = "CHANGELOG.md">CHANGELOG</a>. :heavy_check_mark:</p>
+Just go step by step on the file: "2024W_CustomerProfile.ypnb"
 
-## LICENSE & Contributions
+## Contributing
 
-<p align = "justify">:label: A <a href = "CONTRIBUTING.md">CONTRIBUTING.md</a> file, in your open source repository or site, provides potential project contributors with a short guide to how they can help with your project or study group. It is convention to capitalize the word "contributing" as the file title, and to save it as a resource in markdown (hence the extension .md) (<a href = "https://mozillascience.github.io/working-open-workshop/contributing/">source</a>). :writing_hand: For <b>LICENSE</b> create or add your own file as <code>LICENSE</code>.</p>
+This is a team group, thanks to:
 
-## Resources
+-Aiswarya Prabhalan
 
-<p align = "justify">:card_index: Documentation and/or Resources for your codes, and other mentions can be included in this section! :key:</p>
+-Bini Abraham
+
+-Darling Oscanoa
+
+-Shreyash Banawala
+
+-Suruchi Pokhrel
+
+## License
+
+
