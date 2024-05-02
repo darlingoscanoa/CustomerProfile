@@ -1,3 +1,5 @@
+![Customer Profile](static/logo/Customer_Profile.png)
+
 <h1 align = "center">
   Customer Profile <br>
 </h1>
